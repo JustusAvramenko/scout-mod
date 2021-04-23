@@ -49,7 +49,13 @@ Weak Against: Everything.</Tooltip>
     <food>8</food>
   </Loot>
   <Promotion disable=""/>
-  <ResourceGatherer disable=""/>
+  <ResourceGatherer>
+    <MaxDistance>2.0</MaxDistance>
+    <BaseSpeed>1.0</BaseSpeed>
+    <Rates>
+      <food.meat disable=""/>
+    </Rates>
+  </ResourceGatherer>
   <Resistance>
     <Entity>
       <Damage>
