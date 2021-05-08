@@ -1,8 +1,8 @@
 {
-	"name": "scout-mod",
+	"name": "0ad_scouts_mod",
 	"version": "0.1.0",
 	"label": "Adds Cavalry Scouts to Empires Ascendant.",
 	"url": "",
 	"description": "",
-	"dependencies": ["0ad>=0.0.24"]
+	"dependencies": ["0ad>=0.0.25"]
 }
