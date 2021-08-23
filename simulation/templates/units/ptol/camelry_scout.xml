@@ -12,11 +12,12 @@
     <Civ>ptol</Civ>
     <Lang>napatan</Lang>
 	<SpecificName>Mercenary Camelry Scout</SpecificName>
-    <VisibleClasses datatype="tokens">Camel</VisibleClasses>
+    <VisibleClasses datatype="tokens">Camel Mercenary</VisibleClasses>
     <Icon>units/kush/merc_cavalry_1.png</Icon>
   </Identity>
   <Sound>
     <SoundGroups>
+      <trained>actor/fauna/movement/camel_order.xml</trained>
       <select>actor/fauna/animal/camel_select.xml</select>
       <order_walk>actor/fauna/movement/camel_order.xml</order_walk>
       <death>actor/fauna/death/death_camel.xml</death>
