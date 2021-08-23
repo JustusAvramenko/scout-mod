@@ -12,13 +12,6 @@
       <PrepareTime>500</PrepareTime>
       <RepeatTime>1000</RepeatTime>
     </Melee>
-    <Slaughter>
-      <AttackName>Slaughter</AttackName>
-      <Damage>
-        <Hack>1000</Hack>
-      </Damage>
-      <MaxRange>5</MaxRange>
-    </Slaughter>
   </Attack>
   <Builder>
     <Rate>1.0</Rate>
@@ -66,6 +59,7 @@ Weak Against: Everything.</Tooltip>
   </Resistance>
   <Sound>
     <SoundGroups>
+      <attack_melee>attack/weapon/sword_attack.xml</attack_melee>
       <order_build>voice/{lang}/civ/civ_{phenotype}_build.xml</order_build>
       <order_repair>voice/{lang}/civ/civ_{phenotype}_repair.xml</order_repair>
       <build>resource/construction/con_wood.xml</build>
