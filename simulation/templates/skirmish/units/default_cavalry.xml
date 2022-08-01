@@ -2,6 +2,7 @@
 <Entity parent="template_unit_cavalry_melee_scout">
   <Identity>
     <Civ>skirm</Civ>
+    <Icon>units/athen/cavalry_scout.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <SkirmishReplacer>

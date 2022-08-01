@@ -29,7 +29,7 @@
     <Max>80</Max>
   </Health>
   <Identity>
-    <VisibleClasses datatype="tokens">Scout Sword Hunter</VisibleClasses>
+    <VisibleClasses datatype="tokens">Scout Sword Builder</VisibleClasses>
     <GenericName>Scout Cavalry</GenericName>
     <History>Scouts are the unsung heroes of many campaigns.</History>
     <Tooltip>Traits: Scouting, Fast Speed, Outpost Builder.
